@@ -1,8 +1,8 @@
 # North Ink — Tattoo Studio Website
 
-[View the live website](https://samirakeykha.github.io/Tattoo.github.io/) · [View the repository](https://github.com/samirakeykha/Tattoo.github.io)
+[View the live website](https://samirakeykha.github.io/north-ink-portfolio/) · [View the repository](https://github.com/samirakeykha/north-ink-portfolio)
 
-North Ink is a responsive three-page website for a fictional independent tattoo studio in Stockholm. It helps potential clients understand the studio’s style, browse example work and submit an initial project enquiry.
+North Ink is a responsive three-page website for a fictional independent tattoo studio in  Norrköping. It helps potential clients understand the studio’s style, browse example work and submit an initial project enquiry.
 
 This project replaces and substantially rebuilds my original first portfolio project. It demonstrates semantic HTML, modern CSS, responsive design, accessibility and user-centred planning without relying on a JavaScript framework.
 
@@ -105,8 +105,8 @@ The site is deployed with GitHub Pages from the `main` branch:
 Clone the repository and open `index.html` in a browser:
 
 ```bash
-git clone https://github.com/samirakeykha/Tattoo.github.io.git
-cd Tattoo.github.io
+git clone https://github.com/samirakeykha/north-ink-portfolio.git
+cd north-ink-portfolio
 ```
 
 No build command or package installation is required.
