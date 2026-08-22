@@ -90,6 +90,12 @@ The following manual checks were completed:
 
 Before release, the HTML and CSS were also checked for broken local links, duplicate IDs and missing image alternative text.
 
+### Validation evidence
+
+All HTML pages were checked with the W3C Markup Validation Service, and the stylesheet was checked with the W3C CSS Validation Service.
+
+![W3C validation result for the gallery page](assets/images/gallery-validation.jpg)
+
 ## Deployment
 
 The site is deployed with GitHub Pages from the `main` branch:
